@@ -273,28 +273,27 @@ Add the dashboard screenshots to a folder named `Screenshots` in this repository
 
 ### 1. Home Page
 
-![Uber Dashboard Home Page](Screenshots/Home.png)
+![Uber Dashboard Home Page]("C:\Users\jenib\Downloads\first page .png")
 
 ### 2. Overview Dashboard
 
-![Uber Overview Dashboard](Screenshots/Overview.png)
+![Uber Overview Dashboard]("C:\Users\jenib\Downloads\Overview.png")
 
 ### 3. Vehicle Analysis
 
-![Uber Vehicle Analysis](Screenshots/Vehicle.png)
+![Uber Vehicle Analysis]("C:\Users\jenib\Downloads\Vehicle.png")
 
 ### 4. Revenue Analysis
 
-![Uber Revenue Analysis](Screenshots/Revenue.png)
+![Uber Revenue Analysis]("C:\Users\jenib\Downloads\Revenue.png")
 
 ### 5. Rider Analysis
 
-![Uber Rider Analysis](Screenshots/Rider.png)
+![Uber Rider Analysis]("C:\Users\jenib\Downloads\Revenue.png")
 
 ### 6. Location Analysis
 
-Add the Location page screenshot here when available.
-
+![Uber location analysis]("C:\Users\jenib\Downloads\Revenue.png")
 ---
 
 ## 👩‍💻 Project Type
